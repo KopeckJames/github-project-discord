@@ -1,1 +1,1 @@
-# github-project-discord
+# lets crush this project
