@@ -15,3 +15,18 @@ Other Events:
 
 2008 - Global financial crisis: The collapse of Lehman Brothers investment bank marked the start of a major global financial crisis.
 These are just some of the major geopolitical events that took place between 2006 and 2008. It was a period of significant instability and change in the world order.
+
+The exact number of people 1 metric ton of rice will feed depends on several factors:
+
+​
+ =526.614 people per day fed at 2000 calories
+ 
+
+James 
+time series analysis results for gold rice and wheat vs times of geo political conflict
+Gold Correlation Coefficient: 0.2309
+Gold p-value: 0.0000
+Wheat Correlation Coefficient: 0.1612
+Wheat p-value: 0.0000
+RiceCorrelation Coefficient: 0.0912
+Rice p-value: 0.0113
