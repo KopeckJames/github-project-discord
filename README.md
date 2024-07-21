@@ -21,7 +21,7 @@ The exact number of people 1 metric ton of rice will feed depends on several fac
 ​
  =526.614 people per day fed at 2000 calories
  
-
+8.2 billion ppl in world
 James 
 time series analysis results for gold rice and wheat vs times of geo political conflict
 Gold Correlation Coefficient: 0.2309
