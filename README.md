@@ -15,7 +15,7 @@
 ## Project Overview
 A concise project overview goes here. Include the purpose, main objectives, and a brief description of the project's scope.
 
-[Back to top](#table-of-contents)
+[↑](#table-of-contents)
 
 ## Requirements
 
@@ -29,7 +29,7 @@ A concise project overview goes here. Include the purpose, main objectives, and 
 - **Repository Organization (3 points):**
   - [x] Repository is organized and includes relevant information and project files.
 
-[Back to top](#table-of-contents)
+[↑](#table-of-contents)
 
 ### Documentation (10 points) - **Complete**
 - **Code Comments (3 points):**
@@ -41,7 +41,7 @@ A concise project overview goes here. Include the purpose, main objectives, and 
 - **Examples or Results Summary (3 points):**
   - [x] README includes either examples of the application, or the results and a summary of the analysis.
 
-[Back to top](#table-of-contents)
+[↑](#table-of-contents)
 
 ### Analysis and Conclusion (30 points) - **Complete**
 - **Findings Support (10 points):**
@@ -53,7 +53,7 @@ A concise project overview goes here. Include the purpose, main objectives, and 
 - **Statistical Analysis (5 points):**
   - [x] Each question response is supported with a well-discerned statistical analysis from lessons, such as aggregation, correlation, comparison, summary statistics, sentiment analysis, and time series analysis.
 
-[Back to top](#table-of-contents)
+[↑](#table-of-contents)
 
 ### Visualizations (20 points) - **Complete**
 - **Quantity and Relevance (10 points):**
@@ -63,7 +63,7 @@ A concise project overview goes here. Include the purpose, main objectives, and 
 - **Explanations (5 points):**
   - [x] Visualizations supported with ample and precise explanation.
 
-[Back to top](#table-of-contents)
+[↑](#table-of-contents)
 
 ### Presentation Requirements (30 points) - **Complete**
 Your presentation should cover the following:
@@ -82,10 +82,9 @@ Your presentation should cover the following:
 - **Slide Quality (2 points):**
   - [x] Slides are visually clean and professional.
 
-[Back to top](#table-of-contents)
+[↑](#table-of-contents)
 
 ## Summary
 A brief summary of the project's key takeaways, conclusions, and any final remarks.
 
-[Back to top](#table-of-contents)
-
+[↑](#table-of-contents)
