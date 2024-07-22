@@ -13,9 +13,10 @@
 - [Summary](#summary)
 
 ## Project Overview
-A concise project overview goes here. Include the purpose, main objectives, and a brief description of the project's scope.
+In our project we will go over bread price increases possibly indicating world conflicts.
+We will also look at other commodities to see differences and similarities.
 
-[Back to Home](#table-of-contents)
+---
 
 ## Requirements
 
@@ -29,7 +30,7 @@ A concise project overview goes here. Include the purpose, main objectives, and 
 - **Repository Organization (3 points):**
   - [x] Repository is organized and includes relevant information and project files.
 
-[Back to Home](#table-of-contents)
+[Back to Home](#table-of-contents)---
 
 ### Documentation (10 points) - **Complete**
 - **Code Comments (3 points):**
@@ -41,7 +42,7 @@ A concise project overview goes here. Include the purpose, main objectives, and 
 - **Examples or Results Summary (3 points):**
   - [x] README includes either examples of the application, or the results and a summary of the analysis.
 
-[Back to Home](#table-of-contents)
+[Back to Home](#table-of-contents)---
 
 ### Analysis and Conclusion (30 points) - **Complete**
 - **Findings Support (10 points):**
@@ -53,7 +54,7 @@ A concise project overview goes here. Include the purpose, main objectives, and 
 - **Statistical Analysis (5 points):**
   - [x] Each question response is supported with a well-discerned statistical analysis from lessons, such as aggregation, correlation, comparison, summary statistics, sentiment analysis, and time series analysis.
 
-[Back to Home](#table-of-contents)
+[Back to Home](#table-of-contents)---
 
 ### Visualizations (20 points) - **Complete**
 - **Quantity and Relevance (10 points):**
@@ -63,7 +64,7 @@ A concise project overview goes here. Include the purpose, main objectives, and 
 - **Explanations (5 points):**
   - [x] Visualizations supported with ample and precise explanation.
 
-[Back to Home](#table-of-contents)
+[Back to Home](#table-of-contents)---
 
 ### Presentation Requirements (30 points) - **Complete**
 Your presentation should cover the following:
@@ -82,7 +83,7 @@ Your presentation should cover the following:
 - **Slide Quality (2 points):**
   - [x] Slides are visually clean and professional.
 
-[Back to Home](#table-of-contents)
+[Back to Home](#table-of-contents)---
 
 ## Summary
 A brief summary of the project's key takeaways, conclusions, and any final remarks.
