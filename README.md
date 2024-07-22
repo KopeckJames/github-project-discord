@@ -1,6 +1,6 @@
 # Project Title
 
-![Project Logo](link-to-logo-image)
+![Project Logo](https://www.thoughtco.com/thmb/ZI7aJd2MdrKaIQYpwAW2G4RSveQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/battle-of-ia-drang-large-56a61b303df78cf7728b5def.jpg)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
