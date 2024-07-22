@@ -30,7 +30,6 @@ We will also look at other commodities to see differences and similarities.
 - **Repository Organization (3 points):**
   - [x] Repository is organized and includes relevant information and project files.
 
-[Back to Home](#table-of-contents)
 ---
 
 ### Documentation (10 points) - **Complete**
@@ -56,7 +55,6 @@ We will also look at other commodities to see differences and similarities.
 - **Statistical Analysis (5 points):**
   - [x] Each question response is supported with a well-discerned statistical analysis from lessons, such as aggregation, correlation, comparison, summary statistics, sentiment analysis, and time series analysis.
 
-[Back to Home](#table-of-contents)
 ---
 
 ### Visualizations (20 points) - **Complete**
@@ -67,7 +65,6 @@ We will also look at other commodities to see differences and similarities.
 - **Explanations (5 points):**
   - [x] Visualizations supported with ample and precise explanation.
 
-[Back to Home](#table-of-contents)
 ---
 
 ### Presentation Requirements (30 points) - **Complete**
