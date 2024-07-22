@@ -5,11 +5,11 @@
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Requirements](#requirements)
-  - [Software Version Control](#software-version-control)
-  - [Documentation](#documentation)
-  - [Analysis and Conclusion](#analysis-and-conclusion)
-  - [Visualizations](#visualizations)
-  - [Presentation Requirements](#presentation-requirements)
+  - [Software Version Control](#software-version-control-10-points---complete)
+  - [Documentation](#documentation-10-points---complete)
+  - [Analysis and Conclusion](#analysis-and-conclusion-30-points---complete)
+  - [Visualizations](#visualizations-20-points---complete)
+  - [Presentation Requirements](#presentation-requirements-30-points---complete)
 - [Summary](#summary)
 
 ## Project Overview
@@ -88,3 +88,4 @@ Your presentation should cover the following:
 A brief summary of the project's key takeaways, conclusions, and any final remarks.
 
 [Back to top](#table-of-contents)
+
