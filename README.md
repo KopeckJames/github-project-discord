@@ -89,3 +89,14 @@ Your presentation should cover the following:
 
 ## Summary
 Summary of the project's key takeaways and conclusions.
+
+## Sources
+https://www.npr.org/2022/05/02/1095988641/the-war-in-ukraine-has-the-cost-of-bread-skyrocketing-in-places-like-the-middle-
+https://medium.com/bouncin-and-behavin-blogs/when-the-price-of-bread-rises-the-world-trembles-1e76191605f7
+https://en.wikipedia.org/wiki/Flour_War
+https://earthobservatory.nasa.gov/images/150025/measuring-wars-effect-on-a-global-breadbasket
+https://docs.google.com/spreadsheets/d/1eAZfhKmSqx__LRpZxN-GDzsfZnv1FBN62ZtBxjc6VG8/edit?usp=sharing
+https://www.fao.org/platform-food-loss-waste/flw-data/en/
+https://docs.google.com/spreadsheets/d/1ahA7I9uzEq5heyTUDsjR2OI_442P8_p83DmMUp4ItSc/edit?pli=1&gid=1526202549
+* Conflict Data Set - https://conflictresearchsociety.org/crs-datasets/
+* Commodities Data Set - https://datacatalog.worldbank.org/search/dataset/0038238
