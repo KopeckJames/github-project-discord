@@ -11,6 +11,7 @@
   - [Visualizations](#visualizations-20-points---complete)
   - [Presentation Requirements](#presentation-requirements-30-points---complete)
 - [Summary](#summary)
+- [Sources](#sources)
 
 ## Project Overview
 In our project we will go over bread price increases possibly indicating world conflicts.
