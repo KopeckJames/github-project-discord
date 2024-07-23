@@ -11,6 +11,7 @@
   - [Visualizations](#visualizations-20-points---complete)
   - [Presentation Requirements](#presentation-requirements-30-points---complete)
 - [Summary](#summary)
+- [Conclusion](#conclusion)
 - [Sources](#sources)
 
 ## Project Overview
@@ -89,7 +90,21 @@ Your presentation should cover the following:
 ---
 
 ## Summary
-Summary of the project's key takeaways and conclusions.
+When the Price of Bread Rises, the World Trembles
+What is the  effect of world conflicts on commodity prices and their production levels? Chose conflicts that take place in production/export area. 
+Commodities in question: Wheat, Rice, Coffee, Tea, Gold, and Bread Co. Stock Prices.
+EDA used to determine if price or production change in commodities correlate strongly with conflict as the saying goes: “Where goods and services don’t cross borders, armies will.” - Frédéric Bastiat
+Utilizing aggregations, statistical and time series analysis the findings were not as apparent as we thought. 
+
+---
+
+##Conclusion
+Wheat, rice and gold price changes aren’t indicators of a world conflict beginning. There might be other commodities whose fluctuations in price are better indicators of war. Conversely, other types of conflict, like climate disasters or financial policy changes might have more of a significant impact on the price of commodities.
+Coffee and Tea prices are negatively correlated with war. The price of these commodities went down when there was a rise in conflict in the area of production. This may suggest that war is positive for coffee and tea drinkers because the unrest makes the products cheaper.
+Bread stocks are positively correlated with war. Bread Stock prices are a strong indicator of turmoil. These companies do well when the world is not.
+Bread, Coffee, and Tea production levels seem to be uncorrelated with War.
+
+---
 
 ## Sources
 https://www.npr.org/2022/05/02/1095988641/the-war-in-ukraine-has-the-cost-of-bread-skyrocketing-in-places-like-the-middle-
