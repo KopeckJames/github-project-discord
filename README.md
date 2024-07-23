@@ -97,13 +97,11 @@ EDA used to determine if price or production change in commodities correlate str
 Utilizing aggregations, statistical and time series analysis the findings were not as apparent as we thought. 
 
 ---
-
 ##Conclusion
 Wheat, rice and gold price changes aren’t indicators of a world conflict beginning. There might be other commodities whose fluctuations in price are better indicators of war. Conversely, other types of conflict, like climate disasters or financial policy changes might have more of a significant impact on the price of commodities.
 Coffee and Tea prices are negatively correlated with war. The price of these commodities went down when there was a rise in conflict in the area of production. This may suggest that war is positive for coffee and tea drinkers because the unrest makes the products cheaper.
 Bread stocks are positively correlated with war. Bread Stock prices are a strong indicator of turmoil. These companies do well when the world is not.
 Bread, Coffee, and Tea production levels seem to be uncorrelated with War.
-
 ---
 
 ## Sources
