@@ -102,6 +102,7 @@ Wheat, rice and gold price changes aren’t indicators of a world conflict begin
 Coffee and Tea prices are negatively correlated with war. The price of these commodities went down when there was a rise in conflict in the area of production. This may suggest that war is positive for coffee and tea drinkers because the unrest makes the products cheaper.
 Bread stocks are positively correlated with war. Bread Stock prices are a strong indicator of turmoil. These companies do well when the world is not.
 Bread, Coffee, and Tea production levels seem to be uncorrelated with War.
+
 ---
 
 ## Sources
